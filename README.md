@@ -21,6 +21,10 @@
 `下载Demo后，将子文件夹ScottCounter拖入到项目中，导入头文件 ScottCounter.h 即可。`
         
 * CocoaPods安装：
+    1. pod search `ScottCounter`
+    2. 在podfile里面添加`pod 'ScottCounter', '~> 版本号'`
+    3. pod install 
+
 
     
 ### 代码使用

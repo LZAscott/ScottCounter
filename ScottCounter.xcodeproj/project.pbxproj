@@ -190,7 +190,6 @@
 				TargetAttributes = {
 					2205A8CF1E7A89B0004134D5 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = YJJPK3UMS6;
 						ProvisioningStyle = Automatic;
 					};
 					2205A8E81E7A89B0004134D5 = {
@@ -385,7 +384,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = YJJPK3UMS6;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = ScottCounter/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -398,7 +397,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = YJJPK3UMS6;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = ScottCounter/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
